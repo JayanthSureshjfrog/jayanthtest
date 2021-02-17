@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.jayanthsureshjfrog</groupId>
     <artifactId>jayanth</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <name>maven-project</name>
     <description>A maven project-example</description>
     <url>https://github.com/JayanthSureshjfrog/jayanthtest</url>
@@ -78,7 +78,7 @@
         <connection>scm:git:https://github.com/JayanthSureshjfrog/jayanthtest</connection>
         <developerConnection>scm:git:https://github.com/JayanthSureshjfrog/jayanthtest</developerConnection>
         <url>https://github.com/JayanthSureshjfrog/jayanthtest</url>
-      <tag>HEAD</tag>
+      <tag>jayanth-1.2</tag>
   </scm>
     <developers>
         <developer>
